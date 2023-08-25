@@ -1,0 +1,90 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+  height: auto;
+  justify-content: flex-start;
+  align-items: center;
+  max-width: 962px;
+  justify-self: flex-start;
+  min-width: 0;
+}
+.freeBox___1ZzGt {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  padding: 8px;
+}
+.freeBox__sPwni {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 99.22%;
+  min-width: 0;
+  padding: 8px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .freeBox__sPwni {
+    justify-content: center;
+    align-items: center;
+  }
+}
+.img {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  width: 5rem;
+  margin-bottom: 0.5em;
+  flex-shrink: 0;
+}
+.img > picture > img {
+  object-fit: cover;
+}
+.img > :global(.__wab_img-spacer) > img {
+  object-fit: cover;
+}
+.text__mxAgi {
+  position: relative;
+  width: 1128px;
+  height: auto;
+  max-width: 100%;
+  color: #ededed;
+  font-weight: 700;
+  font-size: 16px;
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
+}
+.freeBox__hzQkS {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 105.82%;
+  min-width: 0;
+  padding: 8px;
+}
+.text__uaHy {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  font-size: 1rem;
+  color: #383b3d;
+  padding-bottom: 1.25rem;
+  padding-left: 8px;
+  font-family: "Inconsolata";
+  min-width: 0;
+}

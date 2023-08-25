@@ -1,0 +1,197 @@
+.root {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  background: #f2f2f2;
+  position: relative;
+  min-width: 0;
+  border-radius: 0.5rem;
+  padding: 8px;
+  border: 1px solid #000000;
+}
+.freeBox__rEDaY {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+  padding: 8px 8px 8px 0px;
+}
+.freeBox__qbPfU {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+  padding: 8px;
+}
+.img__zJ6I {
+  position: relative;
+  object-fit: contain;
+  max-width: 100%;
+  width: 63px;
+  height: 25px;
+  flex-shrink: 0;
+  border-radius: 10px;
+}
+.img__zJ6I > picture > img {
+  object-fit: contain;
+}
+.img__zJ6I > :global(.__wab_img-spacer) > img {
+  object-fit: contain;
+}
+.text__ecUhP {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  font-family: "Inconsolata";
+  text-align: center;
+  color: #010101;
+  min-width: 0;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .text__ecUhP {
+    font-size: 12px;
+  }
+}
+.freeBox__zgdcr {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+  padding: 8px;
+}
+.active:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.text__teoDs {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  font-family: "Inconsolata";
+  text-align: center;
+  color: #000000;
+  margin-top: 8px;
+  min-width: 0;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .text__teoDs {
+    font-size: 12px;
+  }
+}
+.freeBox___9WUxH {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  padding-left: 8px;
+  padding-bottom: 8px;
+  padding-top: 13px;
+  min-width: 0;
+}
+.img___6U9Lr {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  width: 55px;
+  height: 25px;
+  flex-shrink: 0;
+}
+.img___6U9Lr > picture > img {
+  object-fit: cover;
+}
+.img___6U9Lr > :global(.__wab_img-spacer) > img {
+  object-fit: cover;
+}
+.text__xorjE {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  font-family: "Inconsolata";
+  text-align: center;
+  margin-top: 8px;
+  color: #050505;
+  min-width: 0;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .text__xorjE {
+    font-size: 12px;
+  }
+}
+.freeBox__ec3Rk {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+  padding: 8px 5px 8px 8px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .freeBox__ec3Rk {
+    padding-bottom: 6px;
+    margin-bottom: 0px;
+  }
+}
+.text__wrx92 {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  text-align: center;
+  color: #000000;
+  font-weight: 800;
+  font-family: "Inconsolata";
+  font-size: 25px;
+  min-width: 0;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .text__wrx92 {
+    font-size: 20px;
+  }
+}
+.text__svTpZ {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  text-align: center;
+  font-family: "Inconsolata";
+  color: #000000;
+  min-width: 0;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .text__svTpZ {
+    font-size: 12px;
+    margin-top: 6px;
+  }
+}

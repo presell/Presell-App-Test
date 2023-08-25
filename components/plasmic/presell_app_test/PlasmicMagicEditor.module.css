@@ -1,0 +1,105 @@
+.root {
+  display: inline-flex;
+  flex-direction: column;
+  position: relative;
+  width: auto;
+  height: auto;
+  justify-content: flex-start;
+  align-items: center;
+  justify-self: flex-start;
+}
+.freeBox__mVoAq {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  padding: 8px;
+}
+.freeBox___88N1H {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+  padding: 8px;
+}
+.freeBox___884Ou {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  padding: 8px;
+}
+.freeBox__bxoIe {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 80px;
+  height: auto;
+  max-width: 100%;
+  background: #000000;
+  border-radius: 100px;
+  padding: 20px;
+}
+.img___2UYew {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  width: 40px;
+}
+.img___2UYew > picture > img {
+  object-fit: cover;
+}
+.img___2UYew > :global(.__wab_img-spacer) > img {
+  object-fit: cover;
+}
+.freeBox__tPmPo {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  padding: 8px;
+}
+.freeBox___3HpDa {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 80px;
+  height: auto;
+  max-width: 100%;
+  background: #000000;
+  border-radius: 100px;
+  padding: 20px;
+}
+.img__y2TW7 {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  width: 40px;
+}
+.img__y2TW7 > picture > img {
+  object-fit: cover;
+}
+.img__y2TW7 > :global(.__wab_img-spacer) > img {
+  object-fit: cover;
+}

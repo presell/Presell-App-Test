@@ -1,0 +1,27 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+  height: auto;
+  justify-content: flex-start;
+  align-items: center;
+  min-width: 0;
+}
+.buttonn:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+  width: 273px;
+}
+.svg__vIdZy {
+  position: relative;
+  object-fit: cover;
+  width: 1em;
+  height: 1em;
+}
+.svg__c5RRh {
+  position: relative;
+  object-fit: cover;
+  width: 1em;
+  height: 1em;
+}
